@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/GiovanniHD201E/learning-area-de/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ich kann benutze die [editor on GitHub](https://github.com/GiovanniHD201E/learning-area-de/edit/gh-pages/index.md) to maintain and preview the content for meine Website in Markdown Dateien. Zweifell Gio?
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
